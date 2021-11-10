@@ -25,7 +25,7 @@
 
 
 
-## Contributors
+## Maintainers
 * Mujtaba Idrees (mujtabaidrees94) [Email](mailto:mujtaba.idrees@t-systems.com)
 * Asadullah Khalid (Iamaskh) [Email](mailto:asadullah.khalid@t-systems.com)
 * Hira Siddiqui (HiraSiddiqui)[Email](mailto:hira.siddiqui@t-systems.com)
@@ -35,5 +35,5 @@
 
 ## License
 Fabricator is released under the Apache License
-Version 2.0 software license. See the license file for more details.
+Version 2.0 software license. See the [license file](LICENSE) for more details.
 
